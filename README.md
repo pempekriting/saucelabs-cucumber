@@ -65,10 +65,6 @@ Run all tests with Maven:
 mvn test
 ```
 
-## Evidence Recording
-
-[Video](https://drive.google.com/drive/folders/1SWglgixa5DsJti6LuJCnJcoH0rfWEx0l?usp=sharing)
-
 ### Test Reports
 - **Allure Report:**
   After running tests, generate the Allure report:
@@ -82,3 +78,7 @@ mvn test
 - Update device/emulator configuration in driver classes.
 - Add new feature files in `src/test/resources/features/`.
 - Extend page objects for new screens.
+
+## Evidence Recording
+
+[Video](https://drive.google.com/drive/folders/1SWglgixa5DsJti6LuJCnJcoH0rfWEx0l?usp=sharing)
